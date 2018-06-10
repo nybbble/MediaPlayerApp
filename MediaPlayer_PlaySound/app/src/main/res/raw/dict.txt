@@ -1,0 +1,4 @@
+kelime	word
+bilgisayar	computer
+ders	lecture
+ev	house
